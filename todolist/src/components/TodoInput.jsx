@@ -20,7 +20,7 @@ const TodoInput = ({ onAddTask }) => {
       />
       <button
         onClick={handleAdd}
-        className="px-4 bg-blue-500 hover:bg-blue-600 rounded-r"
+        className="px-4 bg-blue-500 hover:bg-blue-700 rounded-r"
       >
         +
       </button>
